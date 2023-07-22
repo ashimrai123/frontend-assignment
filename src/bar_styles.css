@@ -1,0 +1,10 @@
+/* SearchBar.css */
+
+.list-group-item.suggestion-item {
+    cursor: pointer; /* Add pointer cursor to make it seem clickable */
+  }
+  
+  .list-group-item.suggestion-item:hover {
+    background-color: #f8f9fa; /* Apply hover background color to the suggestion items */
+  }
+  
